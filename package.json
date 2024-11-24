@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "nx serve shell",
-    "build": "nx build shell --prod",
-    "test": "nx test shell",
-    "vercel-build": "nx build shell --prod"
+    "start": "nx serve remote2",
+    "build": "nx build remote2 --prod",
+    "test": "nx test remote2",
+    "vercel-build": "nx build remote2 --prod"
   },
   "private": true,
   "dependencies": {
