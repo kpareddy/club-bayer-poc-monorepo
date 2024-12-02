@@ -5,6 +5,6 @@
         "dest": "/dist/apps/shell/$1"
       }
     ],
-    "buildCommand": "npm run build",
+    "buildCommand": "yarn build",
     "outputDirectory": "dist/apps/shell"
 }
